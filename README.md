@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Wubeshet
-- 👀 I’m interested in web & mobile app development, entrepreneurship, pencil sketching, cooking, learning new technologies in general
-- 🌱 I’m currently learning web and mobile app development (flutter)
-- 💞️ I’m looking to collaborate on API development, back-end projects (framework: Flask)
+- 👋 Hi, I’m Wubeshet Yimam (call me Wube)
+- 👀 I’m interested technology, entrepreneurship, pencil sketching, cooking, learning new technologies in general
+- 🌱 I’m currently learning Automation, web and mobile app development (flutter)
+- 💞️ I’m looking to collaborate on API development, back-end open source projects
 - 📫 How to reach me => wubeshet.a.y@gmail.com / WhatsApp: +250791349797
 
 <!---
