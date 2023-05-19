@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 Portfolio [https//www.wubeshet.me](https//www.wubeshet.me)
+- 👨‍💻 Portfolio [https://www.wubeshet.me](https://www.wubeshet.me)
 
 - 💬 Ask me about **Python, Django, Flask, Cloud computing**
 
