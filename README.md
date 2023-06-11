@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperbat.com/img/339664-circuit-hd-wallpaper-and-background-image.jpg)
+<!-- ![MasterHead](https://wallpaperbat.com/img/339664-circuit-hd-wallpaper-and-background-image.jpg) -->
 <h1 align="center">Hi 👋, I'm Wubeshet (call me Wube)</h1>
 <h3 align="center">I build Software.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif"> -->
