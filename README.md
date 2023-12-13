@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wubesheta" alt="wubesheta" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 Portfolio [https://www.wubeshet.me](https://www.wubeshet.me)
 
